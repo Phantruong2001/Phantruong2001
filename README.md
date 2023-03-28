@@ -1,11 +1,11 @@
 <a href="#" target="_blank">
-  <img src="svg/anhcoder03.svg" width="1200" alt="anhcoder03" />
+  <img src="svg/Phantruong2001.svg" width="1200" alt="anhcoder03" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
@@ -19,7 +19,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span> -->
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -43,10 +43,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="anhcoder03">
+  <a href="#" title="Phantruong2001">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantruong2001&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="anhcoder03">
+  <a href="#" title="Phantruong2001">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=phantruong2001&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -56,14 +56,12 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="anhcoder03-facebook" />
+  <a href="https://www.facebook.com/phanvantruong10042001" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
-  <a href="https://instagram.com/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="anhcoder03-instagram" />
-  </a>
-  <a href="" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="anhcoder03-email" />
+
+  <a href="mailto:phanvantruong10042001@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
 
@@ -73,5 +71,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/anhcoder03-quotes.svg" width="846" height="150" alt="anhcoder03" />
+  <img src="svg/Phantruong2001-quote.svg" width="846" height="150" alt="anhcoder03" />
 </a>
